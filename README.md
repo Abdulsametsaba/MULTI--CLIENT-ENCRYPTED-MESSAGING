@@ -1,0 +1,1 @@
+This project aims to develop a system that provides secure and encrypted communication between clients. The project is built on a client-server architecture. Using the RSA algorithm and the AES encryption protocol, the clients exchange encrypted messages with each other and the confidentiality of these messages is protected.
